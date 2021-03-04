@@ -28,3 +28,5 @@ while True:
     else:
         break
     print(f"you typed {count} multiple of 5")
+    
+    print(this i)
