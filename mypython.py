@@ -11,3 +11,4 @@ def cls(): return os.system('cls')
 
 cls()
 print(f"welcom to you {name}")
+print(f"{name.title()} has  {len(name)} letters" )
